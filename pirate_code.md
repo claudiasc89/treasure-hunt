@@ -42,5 +42,6 @@ XI.   Any man deserting the ship in battle or rewriting history on the
   above, so you get your fair share of the prize!
 
 Captain      : NAME HERE  
-Quartermaster: Helene Hemmer  
-First mate   : NAME HERE  
+Quartermaster: Helene Hemmer    
+First mate   : Helene Hemmer  
+(crew-fm: Signed pirate_code)
